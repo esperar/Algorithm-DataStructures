@@ -1,6 +1,9 @@
 # 인자의 첫번째 값을 제외한 값들의 합을 구하기
 
 - 다음 코드를 실행하면 9 5 14를 출력한다. 여기서 sumExceptFirst() 메서드를 완성하라
+
+<br>
+
 ```java
 public class StringTest2 {
 
