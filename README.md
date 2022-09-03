@@ -9,4 +9,5 @@
 <br>
 
 ### 알고리즘
+- [문자열에 포함된 문자수 구하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string1.md)
 - [뒤섞인 글자 맞추기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/stringtest.md)
