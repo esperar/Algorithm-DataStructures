@@ -30,12 +30,13 @@ public class StringTest9 {
 				}
 			}
 		}
+
 		
 		// 지뢰 생성여부 출력
 		for(int i = 0; i < m; i++) {
 			for(int j = 0; j < n; j++) {
 				if(arr[i][j] == 0) {
-					System.out.print("_ ");
+					System.out.print("- ");
 				} else if(arr[i][j] == boom) {
 					System.out.print("* ");
 				}
@@ -43,6 +44,7 @@ public class StringTest9 {
 			System.out.println(" ");
 		}
 		
+
 		// 근처 지뢰 수 구하기
 		for(int i = 0; i < m; i++) {
 			for(int j = 0; j < n; j++) {
@@ -89,10 +91,15 @@ public class StringTest9 {
 
 	public static void main(String[] args) {
 		
-		mineSweeper(5,10,0.3);
-
+		Scanner sc = new Scanner(System.in);
+		
+		int m = sc.nextInt();
+		int n = sc.nextInt();
+		double p = sc.nextDouble();
+		
+		mineSweeper(m,n,p);
+		
 	}
-
 }
 
 ```
