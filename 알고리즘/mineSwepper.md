@@ -43,7 +43,7 @@ public class StringTest9 {
 			System.out.println(" ");
 		}
 		
-		// 근처 지뢰 수 구하기
+		// 이웃한 지뢰 수 구하기
 		for(int i = 0; i < m; i++) {
 			for(int j = 0; j < n; j++) {
 				if(arr[i][j] != boom) {
