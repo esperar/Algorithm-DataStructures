@@ -15,4 +15,4 @@
 - [URL을 입력받아 검사하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string3.md)
 - [주어진 배열의 원소를 역순으로 반환](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string4.md)
 - [두 배열의 원소들을 비교하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string4.md)
-- [지뢰찾기 게임 프로그램](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string4.md)
+- [지뢰찾기 게임 프로그램](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/mineSwepper.md)
