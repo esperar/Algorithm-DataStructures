@@ -10,8 +10,8 @@
 <br>
 
 ### 알고리즘
-- [영수증의 값과 내 돈의 총 합 비교하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/receipt.md)
-- [더하기 싸이클 횟수 구하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string1.md)
+- [영수증의 값과 내 돈의 총 합 비교하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/baekjoon/25304.md)
+- [더하기 싸이클 횟수 구하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/baekjoon/1110)
 - [문자열에 포함된 문자수 구하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string1.md)
 - [첫번째 값을 제외한 정수들의 합 구하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string2.md)
 - [뒤섞인 문자열 맞추기 퀴즈](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/stringtest.md)
@@ -20,4 +20,3 @@
 - [두 배열의 원소들을 비교하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/string4.md)
 - [지뢰찾기 게임 프로그램](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/mineSwepper.md)
 - [수와 상관없이 공백을 구분자로 자르기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/split.md)
-
