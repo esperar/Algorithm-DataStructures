@@ -25,14 +25,13 @@
 
 
 
-
-
 <br>
 
 
 ### 자료구조
 - [선형 리스트 (LinearList)](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/자료구조/LinearList.md)
 - [연결 리스트 (LinkedList)](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/자료구조/linkedList.md)
+- [스택 (Stack)](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/자료구조/stack.md)
 
 
 
