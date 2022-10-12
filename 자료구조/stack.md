@@ -32,15 +32,17 @@ void init() {
 void push(int data) {
 	if(topIdx < STACK_SIZE - 1)
 		arrStack[++topIdx] = data;
-	printf("꺼낼 데이터가 없음");
-	exit(-1);
 }
 
 int pop() {
 	// topIdx 값이 1 감소 + topIdx가 가리키고 있던 값 반환
 	if(topIdx >= 0)
 		return arrStack[topIdx--];
+
+		printf("꺼낼 데이터가 없음");
+		exit(-1);
 }
+
 
 int peek() {
 	return arrStack[topIdx];
