@@ -23,6 +23,7 @@
 - [전화번호부 만들기(생성 조회 삭제)](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/phoneNum.md)
 - [한수 구하기 (등차수열)](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/baekjoon/1065.md)
 - [단어 공부(가장 많이 쓰인 알파벳 구하기)](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/baekjoon/1157.md)
+- [크로아티아 알파벳 구하기](https://github.com/KIMHUEMANG/Algorithm-DataStructures/blob/master/알고리즘/baekjoon/2941.md)
 
 
 
